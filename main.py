@@ -2,6 +2,7 @@ from tkinter import filedialog as fd
 from tkinter import *
 import qrcode
 from PIL import Image
+import termcolor from colored
 
 data = input('Введите данные (начните с http:// если это ссылка): ')
 print('Подождите, генерирую код...')
