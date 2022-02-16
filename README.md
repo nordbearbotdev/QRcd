@@ -6,7 +6,7 @@
 </div>
 <h2 align="center">😈 Follow 😈 </h2>
 <p align="center">
-<a href="https://discord.gg/ng373YUPxz"><img title="Telegram" src="https://hostadvice.com/wp-content/uploads/2021/05/05-14-2021---discord-s-new-stage-discovery-portal-will-connect-live-audio-events-with-communities-1.png"></a>
+<a href="https://discord.gg/ng373YUPxz"><img title="Telegram" src="https://discord.com/assets/92ad040ed5143bfb541ea61f5c3bb18f.svg"></a>
 </p>
 
 ![unknown](https://user-images.githubusercontent.com/85753549/154318489-90ef31c6-cb15-4d2b-8fa6-9a847b0117c1.png)
