@@ -6,7 +6,7 @@
 </div>
 <h2 align="center">😈 Follow 😈 </h2>
 <p align="center">
-<a href="https://discord.gg/ng373YUPxz"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
+<a href="https://discord.gg/ng373YUPxz"><img title="Telegram" src="https://cybersport.metaratings.ru/upload/iblock/07b/07b1307fcbb9433c1ae83df761a100d2.jpg"></a>
 </p>
 
 ![unknown](https://user-images.githubusercontent.com/85753549/154318489-90ef31c6-cb15-4d2b-8fa6-9a847b0117c1.png)
