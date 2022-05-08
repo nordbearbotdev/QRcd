@@ -4,7 +4,6 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"> <img src="https://svgshare.com/i/ZhY.svg"> <img src="https://img.shields.io/github/forks/nordbearbotdev/QRcd?style=social&label=Fork&maxAge=2592000"> <img src="https://img.shields.io/github/stars/nordbearbotdev/QRcd?style=social&label=Star&maxAge=2592000"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"> 
 </div>
-<h2 align="center">😈 Follow 😈 </h2>
 <p align="center">
 <a href="https://discord.gg/ng373YUPxz"><img title="Telegram" src="https://discord.com/assets/92ad040ed5143bfb541ea61f5c3bb18f.svg"></a>
 </p>
@@ -15,7 +14,7 @@
 </div>
 
 # Описание
-
+QRcd - это скрипт написанный на Python для генерации QR-кода.
 
 
 # Авторы
